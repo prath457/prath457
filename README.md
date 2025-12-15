@@ -5,11 +5,11 @@ Email Me 👉 ✉️ **nikamprathmesh200@gmail.com** For Collaboration/Project o
 
 - 🔭 **I’m currently working on:** Testing Projects
 - 🌱 **I’m currently learning:** JAVA programing Language for Automation Testing
-- 👯 **I’m looking to collaborate on:** NA
-- 🤔 **I’m looking for help with:** NA
+- 👯 **I’m looking to collaborate on:** --
+- 🤔 **I’m looking for help with:** --
 - 💬 **Ask me about:** Collaboration, Test Support
 - 📫 **How to reach me:** nikamprathmesh2003@gmail.com
-- 😄 **Pronouns:** Prathzzz Sir
+- 😄 **Pronouns:** Prathzzz 
 - ⚡ **Fun fact:** I Love Testing and Testing Love's Me 😁😁.
 
 # 💫 About Me:
